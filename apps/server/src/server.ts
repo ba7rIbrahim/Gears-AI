@@ -3,7 +3,6 @@ import cors from "cors";
 import { fromNodeHeaders, toNodeHandler } from "better-auth/node";
 import { auth } from "./lib/auth";
 import { connectDB } from "./config/database";
-import OpenAI from "openai";
 import productRouter from "./routes/product-route";
 import orderRoute from "./routes/order-route";
 import cookieParser from "cookie-parser";

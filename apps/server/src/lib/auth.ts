@@ -24,7 +24,7 @@ export const auth = betterAuth({
     sendVerification: true,
     sendPasswordReset: true,
   },
-  trustedOrigins: ["https://geeaers.vercel.app", "http://localhost:5173"],
+  trustedOrigins: ["https://gears-ai.vercel.app", "http://localhost:5173"],
   baseURL: ENV.BETTER_AUTH_URL,
   socialProviders: {
     google: {
