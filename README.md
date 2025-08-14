@@ -1,4 +1,4 @@
-# 🚗 Gears AI — AI-Powered Car Parts E-commerce Platform
+# Gears AI — AI-Powered Car Parts E-commerce Platform 🚗
 
 **Gears AI** is an intelligent e-commerce platform for selling automotive parts such as **engine oils, tires, batteries, and car accessories**.  
 It is built with the **MERN stack** and enhanced with an **AI assistant** to help users find the right part for their vehicle quickly and accurately.
@@ -8,8 +8,8 @@ It is built with the **MERN stack** and enhanced with an **AI assistant** to hel
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="/dark.png" alt="Dark Theme Preview" width="45%" style="border-radius: 10px; margin-right: 10px;" />
-  <img src="/light.png" alt="Light Theme Preview" width="45%" style="border-radius: 10px;" />
+  <img src="./apps/client/public//dark.png" alt="Dark Theme Preview" width="45%" style="border-radius: 10px; margin-right: 10px;" />
+  <img src="./apps/client/public/light.png" alt="Light Theme Preview" width="45%" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
