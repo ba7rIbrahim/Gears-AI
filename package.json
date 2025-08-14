@@ -1,0 +1,16 @@
+{
+  "name": "mern-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "concurrently \"bun run dev:server\" \"bun run dev:client\"",
+    "dev:client": "bun --cwd apps/client dev",
+    "dev:server": "bun --cwd apps/server dev"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.0"
+  }
+}
